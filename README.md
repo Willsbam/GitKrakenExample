@@ -1,1 +1,1 @@
-# GitKrakenExample
+# Visualizing the commit history
